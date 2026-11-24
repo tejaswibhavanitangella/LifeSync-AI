@@ -117,7 +117,7 @@ Prerequisites
 
 1. Clone the Repository
 
-git clone <>
+git clone <https://github.com/tejaswibhavanitangella/LifeSync-AI>
 cd LifeSync-AI
 
 2. Start the Backend
